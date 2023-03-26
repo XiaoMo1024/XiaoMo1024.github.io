@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>电子书下载</title>
+      <link href="/2023/03/26/2023-3-26-zhelper/"/>
+      <url>/2023/03/26/2023-3-26-zhelper/</url>
+      
+        <content type="html"><![CDATA[<h1 id="使用zhelper下载电子书"><a href="#使用zhelper下载电子书" class="headerlink" title="使用zhelper下载电子书"></a>使用zhelper下载电子书</h1><span id="more"></span><h2 id="第一步：打开zhelper-search-API"><a href="#第一步：打开zhelper-search-API" class="headerlink" title="第一步：打开zhelper search API"></a>第一步：打开zhelper search API</h2><p>网址 <a href="https://tool.yibook.org/">https://tool.yibook.org/</a><br>这里包含了常见的搜索接口，我们使用Ylibrary。点击Ylibrary下的直达链接<br><img src="/assets/zhelper_1.png" alt="Lena"><br>这里以物理光学与应用光学为例<br><img src="/assets/zhelper_2.png" alt="Lena"></p><h2 id="第二步：利用秒传下载电子书"><a href="#第二步：利用秒传下载电子书" class="headerlink" title="第二步：利用秒传下载电子书"></a>第二步：利用秒传下载电子书</h2><p>点击“秒传”打开百度网盘转存链接，复制秒传链接<br><img src="/assets/zhelper_3.png" alt="Lena"><br>打开网页版百度网盘 <a href="https://pan.baidu.com/">https://pan.baidu.com/</a><br>点击“秒传”，输入复制的秒传链接，输入文件保持地址，点击确定。<br><img src="/assets/zhelper_4.png" alt="Lena"><br>之后在百度网盘中下载即可。</p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>有些电子书下载完不是pdf格式，而是pdg格式，需要先使用Pdg2Pic工具将pdg格式转换为jpg格式，再用FreePic2Pdf工具将jpg合并在一个pdf中。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>A dream of falling branches</title>
       <link href="/2023/02/04/dream/"/>
       <url>/2023/02/04/dream/</url>
